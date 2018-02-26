@@ -1,4 +1,4 @@
-INSERT INTO burgers (burger_name) VALUES ("Cheeseburger");
-INSERT INTO burgers (burger_name) VALUES ("Bacon Double Cheeseburger");
-INSERT INTO burgers (burger_name) VALUES ("Green Chile Cheeseburger");
-INSERT INTO burgers (burger_name) VALUES ("BBQ Cheeseburger");
+INSERT INTO burgers (burger_name, devoured) VALUES ("Cheeseburger", FALSE);
+INSERT INTO burgers (burger_name, devoured) VALUES ("Bacon Double Cheeseburger", FALSE);
+INSERT INTO burgers (burger_name, devoured) VALUES ("Green Chile Cheeseburger", FALSE);
+INSERT INTO burgers (burger_name, devoured) VALUES ("BBQ Cheeseburger", FALSE);
